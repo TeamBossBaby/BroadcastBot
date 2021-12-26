@@ -47,14 +47,14 @@ banned_users - Show Banned Users
 ### Easiest Heroku Deploy 🤭
 
 <p align="center">
-    <a href="https://heroku.com/deploy?template=https://github.com/nacbots/BroadcastBot">
+    <a href="https://heroku.com/deploy?template=https://github.com/TeamBossBaby/BroadcastBot">
     <img src="https://github.com/nikhileashy/justfor_testing/blob/main/herokudeploy-01-cropped.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
 </p>
 
 ### Host Locally 🤕
 
 ```shell
-git clone https://github.com/nacbots/BroadcastBot
+git clone https://github.com/TeamBossBaby/BroadcastBot
 cd BroadcastBot
 pip3 install -r requirements.txt
 # EDIT config.py values appropriately
